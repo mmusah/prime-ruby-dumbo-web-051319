@@ -1,5 +1,5 @@
 def prime?()
-rime_array = []
+prime_array = []
 
 (1...100).each do |num|
   if Math.sqrt(num) % 2 == 0
