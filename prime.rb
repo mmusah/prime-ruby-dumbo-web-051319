@@ -1,3 +1,3 @@
 def prime?()
- n= 
+ n=2 
 end
